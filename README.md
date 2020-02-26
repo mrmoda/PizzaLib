@@ -1,4 +1,4 @@
-## PizzaLib是一款适用于Web、移动APP原型设计的元件库。
+## PizzaLib是一款适用于Web及移动端应用原型设计的元件库。
 目前主要支持Axure设计平台使用，Sketch平台版本测试中。
 </br>
 </br>
